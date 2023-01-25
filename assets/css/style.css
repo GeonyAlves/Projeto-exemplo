@@ -1,0 +1,23 @@
+body {
+    margin: 0px;
+}
+
+.cabecalho {
+    background: linear-gradient(45deg, #fff, #000000f2);
+}
+
+.menu {
+    display: flex;
+    justify-content: center;
+    margin-top: 15px; 
+}
+
+.menu a {
+    text-decoration: none;
+    font-weight: bold;
+    color: blue;
+    margin-right: 15px;
+    font-family: 'Courier New', Courier, monospace;
+    border: 1px solid black;
+    padding: 5px;
+}
