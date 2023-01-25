@@ -4,6 +4,7 @@ body {
 
 .cabecalho {
     background: linear-gradient(45deg, #fff, #000000f2);
+    padding: 20px;
 }
 
 .menu {
